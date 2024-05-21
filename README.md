@@ -1,2 +1,2 @@
 # Computer-Vision
-This contains all the computer vision files
+This repository contains classical and basic Neural Network Algorithms
